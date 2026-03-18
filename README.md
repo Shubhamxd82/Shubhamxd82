@@ -1,7 +1,7 @@
 👋 Hey, I'm Shubham Ram
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=🚀+Telegram+Bot+Developer;⚡+Python+Automation+Expert;🧠+MongoDB+Backend+Builder;🔥+Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=🚀+Telegram+Bot+Developer;⚡+Python+Automation+Expert;🧠+MongoDB+Backend+Builder;🔥+Building+Real+World+Projects" />
 </p>---
 
 🚀 About Me
@@ -28,22 +28,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamxd82&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>---
 
+🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamxd82&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>---
+
 🚀 Featured Projects
 
 <p align="center"><a href="https://github.com/Shubhamxd82">
-  <img src="https://img.shields.io/badge/Telegram_File_to_Link_Bot-View_Project-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📂_File_to_Link_Bot-View_Project-blue?style=for-the-badge"/>
 </a><a href="https://github.com/Shubhamxd82">
-  <img src="https://img.shields.io/badge/Streaming_Web_App-View_Project-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎬_Streaming_App-View_Project-green?style=for-the-badge"/>
 </a><a href="https://github.com/Shubhamxd82">
-  <img src="https://img.shields.io/badge/Automation_Tools-View_Project-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚙️_Automation_Tools-View_Project-orange?style=for-the-badge"/>
 </a></p>---
-
-🧰 Tools & Technologies
-
-<p align="center"><img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git"/></p>---
 
 🌐 Connect With Me
 
@@ -59,7 +58,7 @@
 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhamxd82&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shubhamxd82&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>---
 
 ⚡ Fun Fact
@@ -68,4 +67,6 @@
 
 ---
 
-⭐ If you like my work, give a star to my repositories!
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
