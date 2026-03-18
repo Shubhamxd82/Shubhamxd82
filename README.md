@@ -1,64 +1,71 @@
-👋 Hi, I'm Shubham Ram
+👋 Hey, I'm Shubham Ram
 
-"Typing SVG" (https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Telegram+Bot+Developer;Python+Automation+Expert;MongoDB+Backend+Builder;Always+Learning+New+Things+🚀)
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=🚀+Telegram+Bot+Developer;⚡+Python+Automation+Expert;🧠+MongoDB+Backend+Builder;🔥+Building+Real+World+Projects" />
+</p>---
 
 🚀 About Me
 
-💻 Passionate Python Developer focused on building scalable Telegram bots
-⚙️ Experienced in Automation, Backend Systems & APIs
-📦 Working with MongoDB databases and cloud deployments
-🌱 Currently learning advanced backend & performance optimization
+- 💻 Python Developer specialized in Telegram Bots & Automation
+- ⚙️ Skilled in Backend Systems, APIs & MongoDB
+- 📦 Building scalable file streaming & link systems
+- 🌱 Learning advanced backend & performance optimization
 
 ---
 
 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mongodb,git,github,html,css,linux" />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,git,github,html,css,linux,vscode" />
 </p>---
 
-📊 GitHub Stats
+📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamxd82&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamxd82&theme=tokyonight&hide_border=true" height="160"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamxd82&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>---
 
 🚀 Featured Projects
 
-🔹 Telegram File to Link Converter Bot
-➡️ Converts Telegram files into permanent shareable links
-
-🔹 Streaming Web App for Telegram Files
-➡️ Stream videos directly without downloading
-
-🔹 Automation Scripts
-➡️ Task automation tools to save time and increase productivity
-
----
+<p align="center"><a href="https://github.com/Shubhamxd82">
+  <img src="https://img.shields.io/badge/Telegram_File_to_Link_Bot-View_Project-blue?style=for-the-badge"/>
+</a><a href="https://github.com/Shubhamxd82">
+  <img src="https://img.shields.io/badge/Streaming_Web_App-View_Project-green?style=for-the-badge"/>
+</a><a href="https://github.com/Shubhamxd82">
+  <img src="https://img.shields.io/badge/Automation_Tools-View_Project-orange?style=for-the-badge"/>
+</a></p>---
 
 🧰 Tools & Technologies
 
-"Python" (https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-"MongoDB" (https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
-"Linux" (https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux)
-"Git" (https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git)
-
----
+<p align="center"><img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git"/></p>---
 
 🌐 Connect With Me
 
-📩 Email: your@email.com
-💬 Telegram: https://t.me/yourusername
+<p align="center">
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>---
 
----
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubhamxd82&label=Profile%20Views&color=blue&style=flat" />
+</p>---
 
 ⚡ Fun Fact
 
-💡 I love building bots that solve real problems and automate boring tasks
+💡 I automate things so I don’t have to do them twice 😎
 
 ---
 
-⭐ Feel free to check out my repositories and give them a star if you like them!
+⭐ If you like my work, give a star to my repositories!
